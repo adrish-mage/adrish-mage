@@ -4,7 +4,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=CS+Undergrad+%40+Calcutta+University;C%2B%2B+%7C+JavaScript+%7C+Web+Dev;Grinding+DSA+one+problem+at+a+time)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=IT+Undergrad+%40+Calcutta+University;Building+things+with+C%2B%2B+%26+JavaScript)](https://git.io/typing-svg)
 
 <br/>
 
@@ -21,18 +21,6 @@
 
 ---
 
-### 🧠 DSA
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-Adrish2007-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/Adrish2007)
-
-```
-Arrays  ████████████  ✓      Strings      ████████████  ✓
-Linked Lists  ████████░░░░  ~      Bit Manip    ████████████  ✓
-Stacks  ████████████  ✓      Trees        ░░░░░░░░░░░░  next
-```
-
----
-
 ### 📊 Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=adrish-mage&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&rank_icon=github" height="165"/>
@@ -43,8 +31,6 @@ Stacks  ████████████  ✓      Trees        ░░░░
 ![GitHub Streak](https://streak-stats.demolab.com?user=adrish-mage&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff)
 
 ---
-
-![Visitor Count](https://komarev.com/ghpvc/?username=adrish-mage&style=flat-square&color=58a6ff&label=PROFILE+VIEWS)
 
 <sub>Always building · DMs open</sub>
 
