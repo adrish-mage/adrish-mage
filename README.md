@@ -4,7 +4,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=CS+Undergrad+%40+Calcutta+University;Building+things+with+C%2B%2B+%26+JavaScript)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=IT+Undergrad+%40+Calcutta+University;Building+things+with+C%2B%2B+%26+JavaScript)](https://git.io/typing-svg)
 
 <br/>
 
