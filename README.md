@@ -1,7 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f2e,100:58a6ff&height=120&section=header&text=Adrish%20Dey&fontSize=40&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%"/>
-
+<p align="center">
+  <img src="./assets/banner.png" alt="Adrish Dey Banner" width="200%" />
+</p>
 <br/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=IT+Undergrad+%40+Calcutta+University;Building+things+with+C%2B%2B+%26+JavaScript)](https://git.io/typing-svg)
