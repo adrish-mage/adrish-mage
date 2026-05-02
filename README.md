@@ -24,7 +24,7 @@
 
 ### 📊 Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=adrish-mage&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&rank_icon=github" height="165"/>
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=adrish-mage&cache_seconds=1800&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&rank_icon=github" height="165&v=2"/> -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrish-mage&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="165"/>
 
 <br/>
