@@ -1,13 +1,19 @@
 <div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:A98E79,50:967969,100:967969&height=120&section=header&text=ADRISH%20DEY&fontSize=40&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%"/>
-
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=A98E79&center=true&vCenter=true&width=500&lines=IT+Undergrad+%40+Calcutta+University;Building+things+with+C%2B%2B+%26+JavaScript)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=A98E79&center=true&vCenter=true&width=500&lines=IT+Undergrad+%40+Calcutta+University;Building+things+with+C%2B%2B+%26+JavaScript;GSSoC+2026+Contributor)](https://git.io/typing-svg)
 
 <br/>
 <img width="1918" height="678" alt="image" src="https://github.com/user-attachments/assets/ef850e4e-a00d-4721-92cd-718a84c8ee8d" />
+
+---
+
+### 🌱 Open Source
+
+**GSSoC 2026 Contributor** — 6 merged PRs across [DailyForge](https://github.com/aryandas2911/DailyForge) and [StorySpark AI](https://github.com/ronisarkarexe/story-spark-ai)
+
+Task management features · Recurring tasks · Bulk edit · Error boundaries · Reading progress bar · UI enhancements · Cross-repo contributions 
 
 ---
 
@@ -38,6 +44,5 @@
 
 <sub>Always building · DMs open</sub>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,100:0d1117&height=80&section=footer" width="100%"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:A98E79,50:967969,100:967969&height=80&section=footer" width="100%"/>
 </div>
