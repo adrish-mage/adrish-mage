@@ -5,12 +5,13 @@
 <br/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=3fd66f&center=true&vCenter=true&width=500&lines=IT+Undergrad+%40+Calcutta+University;Building+things+with+C%2B%2B+%26+JavaScript;GSSoC+2026+Contributor)](https://git.io/typing-svg)
-
 <br/>
 
-<a href="https://devprint.adrish.me">
-  <img src="./assets/devprintcard.png" width="900" alt="DevPrint — live dev card generator"/>
-</a>
+[![DevPrint](https://img.shields.io/badge/Live-devprint.adrish.me-47A248?style=for-the-badge)](https://devprint.adrish.me)
+[![Repo](https://img.shields.io/badge/Repo-View_Code-21262d?style=for-the-badge&logo=github)](https://github.com/adrish-mage/devprint)
+
+
+<br/>
 
 ---
 
