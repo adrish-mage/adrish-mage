@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:58a6ff&height=120&section=header&text=ADRISH%20DEY&fontSize=40&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0e8a3e,100:3fd66f&height=120&section=header&text=ADRISH%20DEY&fontSize=40&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%"/>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=58a6ff&center=true&vCenter=true&width=500&lines=IT+Undergrad+%40+Calcutta+University;Building+things+with+C%2B%2B+%26+JavaScript;GSSoC+2026+Contributor)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=3fd66f&center=true&vCenter=true&width=500&lines=IT+Undergrad+%40+Calcutta+University;Building+things+with+C%2B%2B+%26+JavaScript;GSSoC+2026+Contributor)](https://git.io/typing-svg)
 
 <br/>
 
@@ -43,9 +43,8 @@ Recurring tasks · Bulk edit · Error boundaries · Reading progress bar
 ---
 
 ### 📊 Stats
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=adrish-mage&theme=tokyonight"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=adrish-mage&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=adrish-mage&theme=github_dark"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=adrish-mage&theme=github_dark"/>
 
 <br/>
 
@@ -53,6 +52,6 @@ Recurring tasks · Bulk edit · Error boundaries · Reading progress bar
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:58a6ff&height=80&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0e8a3e,100:3fd66f&height=80&section=footer" width="100%"/>
 
 </div>
