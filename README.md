@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:A98E79,50:967969,100:967969&height=120&section=header&text=ADRISH%20DEY&fontSize=40&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:09090b,50:0d4429,100:00e676&height=120&section=header&text=ADRISH%20DEY&fontSize=40&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%"/>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=A98E79&center=true&vCenter=true&width=500&lines=IT+Undergrad+%40+Calcutta+University;Building+things+with+C%2B%2B+%26+JavaScript;GSSoC+2026+Contributor)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=00e676&center=true&vCenter=true&width=500&lines=IT+Undergrad+%40+Calcutta+University;Building+things+with+C%2B%2B+%26+JavaScript;GSSoC+2026+Contributor)](https://git.io/typing-svg)
 
 <br/>
 
 <a href="https://devprint.adrish.me">
-  <img src="./assets/devprint-card.png" width="800" alt="DevPrint — live dev card generator"/>
+  <img src="./assets/devprint-card.png" width="800" alt="DevPrint — live dev card generator" width="90%"/>
 </a>
 
 ---
@@ -55,6 +55,6 @@ Recurring tasks · Bulk edit · Error boundaries · Reading progress bar
 
 <sub>Always building · DMs open</sub>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:A98E79,50:967969,100:967969&height=80&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:09090b,50:0d4429,100:00e676&height=80&section=footer" width="100%"/>
 
 </div>
