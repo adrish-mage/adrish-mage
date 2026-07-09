@@ -1,55 +1,117 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0e8a3e,100:3fd66f&height=120&section=header&text=ADRISH%20DEY&fontSize=40&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:292929,50:292929,100:752724&height=120&section=header&text=ADRISH%20DEY&fontSize=40&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%"/>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=3fd66f&center=true&vCenter=true&width=500&lines=IT+Undergrad+%40+Calcutta+University;Building+things+with+C%2B%2B+%26+JavaScript;GSSoC+2026+Contributor)](https://git.io/typing-svg)
-<br/>
-
-[![DevPrint](https://img.shields.io/badge/Live-devprint.adrish.me-47A248?style=for-the-badge)](https://devprint.adrish.me)
-[![Repo](https://img.shields.io/badge/Repo-View_Code-21262d?style=for-the-badge&logo=github)](https://github.com/adrish-mage/devprint)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=8B949E&center=true&vCenter=true&width=500&lines=IT+Undergrad+%40+Calcutta+University;GSSoC+2026+Contributor;Building+things+with+C%2B%2B+%26+MERN;GSSoC+2026+Contributor)](https://git.io/typing-svg)
 
 <br/>
 
 ---
+### 🚀 Featured Projects
+
+<table align="center">
+<tr>
+<td width="100%">
+  
+**DevPrint**
+ 
+- GitHub OAuth (Auth0) — login auto-generates your own dev card, no manual setup
+- GraphQL contribution heatmap + stats tiles pulled from GitHub REST + GraphQL API
+- MongoDB cache-aside layer for fast repeat loads
+- Public shareable card at `/u/:username`
+- Deployed on Render with custom domain + `/healthz` keep-alive
+<p align="center" style = "fontSize=50">
+<a href="https://devprint.adrish.me"><img src="https://img.shields.io/badge/Live-devprint.adrish.me-47A248?style=flat-square"/></a>
+<a href="https://github.com/adrish-mage/devprint"><img src="https://img.shields.io/badge/Repo-View_Code-21262d?style=flat-square&logo=github"/></a>
+</p>
+</td>
+</tr>
+</table>
+
+--- 
+### 🔗 Connect
+
+<p align="center">
+<a href="https://github.com/adrish-mage"><img src="https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=white" width="120" style="border-radius:10px;"/></a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://linkedin.com/in/adrish-dey"><img src="https://img.shields.io/badge/LinkedIn-161b22?style=for-the-badge&logo=linkedin&logoColor=white" width="120" style="border-radius:10px;"/></a>
+&nbsp;&nbsp;&nbsp;
+<a href="mailto:adrish@example.com"><img src="https://img.shields.io/badge/Email-161b22?style=for-the-badge&logo=gmail&logoColor=white" width="120" style="border-radius:10px;"/></a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://adrish.me/resume.pdf"><img src="https://img.shields.io/badge/Resume-161b22?style=for-the-badge&logo=readdotcv&logoColor=white" width="130" style="border-radius:10px;"/></a>
+</p>
+
+> "It is our choices, Harry, that show what we truly are, far more than our abilities."
+> — *Albus Dumbledore*
+
+-----
 
 ### 🌱 Open Source
 
 **GSSoC 2026 Contributor** — 6 merged PRs across [DailyForge](https://github.com/aryandas2911/DailyForge) and [StorySpark AI](https://github.com/ronisarkarexe/story-spark-ai)
 
-Recurring tasks · Bulk edit · Error boundaries · Reading progress bar
+<p align="center">
+<code>Recurring tasks</code> · <code>Bulk edit</code> · <code>Error boundaries</code> · <code>Reading progress bar</code>
+</p>
+
+</td>
+</tr>
+</table>
 
 ---
 
-### ⚡ Stack
+### ⚡ Tech Stack
 
-**Languages**
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<table align="center">
+<tr>
+<td align="center" width="33%">
 
-**Backend & Database**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![EJS](https://img.shields.io/badge/EJS-B4CA65?style=for-the-badge&logo=ejs&logoColor=black)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+**Frontend Development**
 
-**Tools & Auth**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Auth0](https://img.shields.io/badge/Auth0-EB5424?style=for-the-badge&logo=auth0&logoColor=white)
+<img src="https://skillicons.dev/icons?i=js,html,css" width="220" style="border-radius:12px;" />
 
----
+</td>
+<td align="center" width="33%">
 
-### 📊 Stats
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=adrish-mage&theme=github_dark"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=adrish-mage&theme=github_dark"/>
+**Backend Development**
 
+<img src="https://skillicons.dev/icons?i=cpp,nodejs,express" width="220" style="border-radius:12px;" />
+<br/><br/>
+<img src="https://img.shields.io/badge/EJS-161b22?style=for-the-badge&logo=EJS&logoColor=white" width="120" style="border-radius:10px;"/></a>
+&nbsp;&nbsp;&nbsp;
+
+</td>
+<td align="center" width="33%">
+
+**Database & DevOps**
+
+<img src="https://skillicons.dev/icons?i=mongodb,git" width="150" style="border-radius:12px;" />
 <br/>
+<img src="https://img.shields.io/badge/Auth0-161b22?style=for-the-badge&logo=Auth0&logoColor=white" width="120" style="border-radius:10px;"/></a>
+&nbsp;&nbsp;&nbsp;
+</td>
+</tr>
+</table>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=adrish-mage&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff)
+
+
+---
+
+
+
+### 📊 GitHub Analytics
+
+<table align="center">
+<tr>
+<td valign="top" width="50%">
+<img src="https://github-stats-extended.vercel.app/api?username=adrish-mage&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=3fd66f&icon_color=58a6ff&cache_seconds=86400" width="100%"/>
+</td>
+<td valign="top" width="50%">
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=adrish-mage&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=3fd66f&layout=compact&langs_count=6&cache_seconds=86400" width="100%"/>
+</td>
+</tr>
+</table>
 
 ---
 
