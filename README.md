@@ -8,7 +8,7 @@
 <br/>
 
 ---
-### 🚀 Featured Projects
+###  Featured Projects
 
 <table align="center">
 <tr>
@@ -30,7 +30,7 @@
 </table>
 
 --- 
-### 🔗 Connect
+### Connect
 
 <p align="center">
 <a href="https://github.com/adrish-mage"><img src="https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=white" width="120" style="border-radius:10px;"/></a>
@@ -61,7 +61,7 @@
 
 ---
 
-### ⚡ Tech Stack
+### Tech Stack
 
 <table align="center">
 <tr>
@@ -100,7 +100,7 @@
 
 
 
-### 📊 GitHub Analytics
+### GitHub Analytics
 
 <table align="center">
 <tr>
