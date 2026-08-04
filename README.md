@@ -48,7 +48,7 @@
 
 ### 🌱 Open Source
 
-**GSSoC 2026 Contributor** — 6 merged PRs across [DailyForge](https://github.com/aryandas2911/DailyForge) and [StorySpark AI](https://github.com/ronisarkarexe/story-spark-ai)
+**GSSoC 2026 Contributor** — 10 merged PRs across [DailyForge](https://github.com/aryandas2911/DailyForge) and [StorySpark AI](https://github.com/ronisarkarexe/story-spark-ai)
 
 <p align="center">
 <code>Recurring tasks</code> · <code>Bulk edit</code> · <code>Error boundaries</code> · <code>Reading progress bar</code>
