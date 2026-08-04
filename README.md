@@ -1,11 +1,10 @@
+
+<img width="100%" alt="image" src="https://github.com/user-attachments/assets/a852d924-649b-4f62-aac0-f8b6a2f20d3e" />
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:292929,50:292929,100:752724&height=120&section=header&text=ADRISH%20DEY&fontSize=40&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%"/>
 
-<br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=8B949E&center=true&vCenter=true&width=500&lines=IT+Undergrad+%40+Calcutta+University;GSSoC+2026+Contributor;Building+things+with+C%2B%2B+%26+MERN;GSSoC+2026+Contributor)](https://git.io/typing-svg)
 
-<br/>
+
 
 ---
 ###  Featured Projects
