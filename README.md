@@ -2,13 +2,7 @@
 <img width="100%" alt="image" src="https://github.com/user-attachments/assets/a852d924-649b-4f62-aac0-f8b6a2f20d3e" />
 <div align="center">
 
-
-
-
-
----
 ###  Featured Projects
-
 <table align="center">
 <tr>
 <td width="100%">
@@ -28,18 +22,16 @@
 </tr>
 </table>
 
---- 
-### Connect
+---
 
+### Connect
 <p align="center">
 <a href="https://github.com/adrish-mage"><img src="https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=white" width="120" style="border-radius:10px;"/></a>
 &nbsp;&nbsp;&nbsp;
 <a href="https://linkedin.com/in/adrish-dey"><img src="https://img.shields.io/badge/LinkedIn-161b22?style=for-the-badge&logo=linkedin&logoColor=white" width="120" style="border-radius:10px;"/></a>
 &nbsp;&nbsp;&nbsp;
 <a href="mailto:adrish@example.com"><img src="https://img.shields.io/badge/Email-161b22?style=for-the-badge&logo=gmail&logoColor=white" width="120" style="border-radius:10px;"/></a>
-&nbsp;&nbsp;&nbsp;
-<!-- <a href="https://adrish.me/resume.pdf"><img src="https://img.shields.io/badge/Resume-161b22?style=for-the-badge&logo=readdotcv&logoColor=white" width="130" style="border-radius:10px;"/></a>
-</p> -->
+</p>
 
 > "It is our choices, Harry, that show what we truly are, far more than our abilities."
 > — *Albus Dumbledore*
@@ -48,59 +40,43 @@
 
 ### 🌱 Open Source
 
-**GSSoC 2026 Contributor** — 10 merged PRs across [DailyForge](https://github.com/aryandas2911/DailyForge) and [StorySpark AI](https://github.com/ronisarkarexe/story-spark-ai)
 
+
+**GSSoC 2026 Contributor** — Top 2%, Global Rank #817 — 10 merged PRs across [DailyForge](https://github.com/aryandas2911/DailyForge) and [StorySpark AI](https://github.com/ronisarkarexe/story-spark-ai)
 <p align="center">
 <code>Recurring tasks</code> · <code>Bulk edit</code> · <code>Error boundaries</code> · <code>Reading progress bar</code>
 </p>
-
-</td>
-</tr>
-</table>
 
 ---
 
 ### Tech Stack
 
-<table align="center">
-<tr>
-<td align="center" width="33%">
+<p align="center">
+<img src="https://img.shields.io/badge/JavaScript-161b22?style=for-the-badge&logo=javascript&logoColor=F7DF1E&"/>
+<img src="https://img.shields.io/badge/TypeScript-161b22?style=for-the-badge&logo=typescript&logoColor=3178C6"/>
+<img src="https://img.shields.io/badge/C++-161b22?style=for-the-badge&logo=cplusplus&logoColor=00599C"/>
+<img src="https://img.shields.io/badge/HTML5-161b22?style=for-the-badge&logo=html5&logoColor=E34F26"/>
+<img src="https://img.shields.io/badge/CSS3-161b22?style=for-the-badge&logo=css3&logoColor=1572B6"/>
+</p>
 
-**Frontend Development**
+<p align="center">
+<img src="https://img.shields.io/badge/React-161b22?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Node.js-161b22?style=for-the-badge&logo=nodedotjs&logoColor=339933"/>
+<img src="https://img.shields.io/badge/Express-161b22?style=for-the-badge&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/EJS-161b22?style=for-the-badge&logo=ejs&logoColor=B4CA65"/>
+</p>
 
-<img src="https://skillicons.dev/icons?i=js,html,css" width="220" style="border-radius:12px;" />
-
-</td>
-<td align="center" width="33%">
-
-**Backend Development**
-
-<img src="https://skillicons.dev/icons?i=cpp,nodejs,express" width="220" style="border-radius:12px;" />
-<br/><br/>
-<img src="https://img.shields.io/badge/EJS-161b22?style=for-the-badge&logo=EJS&logoColor=white" width="120" style="border-radius:10px;"/></a>
-&nbsp;&nbsp;&nbsp;
-
-</td>
-<td align="center" width="33%">
-
-**Database & DevOps**
-
-<img src="https://skillicons.dev/icons?i=mongodb,git" width="150" style="border-radius:12px;" />
-<br/>
-<img src="https://img.shields.io/badge/Auth0-161b22?style=for-the-badge&logo=Auth0&logoColor=white" width="120" style="border-radius:10px;"/></a>
-&nbsp;&nbsp;&nbsp;
-</td>
-</tr>
-</table>
-
-
+<p align="center">
+<img src="https://img.shields.io/badge/MongoDB-161b22?style=for-the-badge&logo=mongodb&logoColor=47A248"/>
+<img src="https://img.shields.io/badge/GraphQL-161b22?style=for-the-badge&logo=graphql&logoColor=E10098"/>
+<img src="https://img.shields.io/badge/Git-161b22?style=for-the-badge&logo=git&logoColor=F05032"/>
+<img src="https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Auth0-161b22?style=for-the-badge&logo=auth0&logoColor=EB5424"/>
+</p>
 
 ---
 
-
-
 ### GitHub Analytics
-
 <table align="center">
 <tr>
 <td valign="top" width="50%">
