@@ -38,8 +38,8 @@
 &nbsp;&nbsp;&nbsp;
 <a href="mailto:adrish@example.com"><img src="https://img.shields.io/badge/Email-161b22?style=for-the-badge&logo=gmail&logoColor=white" width="120" style="border-radius:10px;"/></a>
 &nbsp;&nbsp;&nbsp;
-<a href="https://adrish.me/resume.pdf"><img src="https://img.shields.io/badge/Resume-161b22?style=for-the-badge&logo=readdotcv&logoColor=white" width="130" style="border-radius:10px;"/></a>
-</p>
+<!-- <a href="https://adrish.me/resume.pdf"><img src="https://img.shields.io/badge/Resume-161b22?style=for-the-badge&logo=readdotcv&logoColor=white" width="130" style="border-radius:10px;"/></a>
+</p> -->
 
 > "It is our choices, Harry, that show what we truly are, far more than our abilities."
 > — *Albus Dumbledore*
