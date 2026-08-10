@@ -1,8 +1,8 @@
 
 <img width="100%" alt="image" src="https://github.com/user-attachments/assets/a852d924-649b-4f62-aac0-f8b6a2f20d3e" />
 <div align="center">
-
-###  FEATURED PROJECTS
+  
+#  FEATURED PROJECTS
 <table align="center">
 <tr>
 <td width="100%">
@@ -15,7 +15,7 @@
 - Public shareable card at `/u/:username`
 - Deployed on Render with custom domain + `/healthz` keep-alive
 <p align="center" style = "fontSize=50">
-<a href="https://devprint.adrish.me"><img src="https://img.shields.io/badge/Live-devprint.adrish.me-47A248?style=flat-square"/></a>
+<a href="https://devprint.adrish.me"><img src="https://img.shields.io/badge/Live-devprint.adrish.me-47A248?style=flat-square"  /></a>
 <a href="https://github.com/adrish-mage/devprint"><img src="https://img.shields.io/badge/Repo-View_Code-21262d?style=flat-square&logo=github"/></a>
 </p>
 </td>
@@ -24,7 +24,7 @@
 
 ---
 
-### CONNECT
+# CONNECT
 <p align="center">
 <a href="https://github.com/adrish-mage"><img src="https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=white" width="120" style="border-radius:10px;"/></a>
 &nbsp;&nbsp;&nbsp;
@@ -38,7 +38,7 @@
 
 -----
 
-### 🌱 OPEN SOURCE
+# 🌱 OPEN SOURCE
 
 
 
@@ -49,7 +49,7 @@
 
 ---
 
-### TECH STACK
+# TECH STACK
 
 <p align="center">
 <img src="https://img.shields.io/badge/JavaScript-161b22?style=for-the-badge&logo=javascript&logoColor=F7DF1E&"/>
@@ -76,7 +76,7 @@
 
 ---
 
-### GITHUB ANALYTICS
+# GITHUB ANALYTICS
 <table align="center">
 <tr>
 <td valign="top" width="50%">
