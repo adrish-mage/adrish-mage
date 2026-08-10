@@ -2,7 +2,7 @@
 <img width="100%" alt="image" src="https://github.com/user-attachments/assets/a852d924-649b-4f62-aac0-f8b6a2f20d3e" />
 <div align="center">
 
-###  Featured Projects
+###  FEATURED PROJECTS
 <table align="center">
 <tr>
 <td width="100%">
@@ -24,7 +24,7 @@
 
 ---
 
-### Connect
+### CONNECT
 <p align="center">
 <a href="https://github.com/adrish-mage"><img src="https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=white" width="120" style="border-radius:10px;"/></a>
 &nbsp;&nbsp;&nbsp;
@@ -38,7 +38,7 @@
 
 -----
 
-### 🌱 Open Source
+### 🌱 OPEN SOURCE
 
 
 
@@ -49,7 +49,7 @@
 
 ---
 
-### Tech Stack
+### TECH STACK
 
 <p align="center">
 <img src="https://img.shields.io/badge/JavaScript-161b22?style=for-the-badge&logo=javascript&logoColor=F7DF1E&"/>
@@ -76,7 +76,7 @@
 
 ---
 
-### GitHub Analytics
+### GITHUB ANALYTICS
 <table align="center">
 <tr>
 <td valign="top" width="50%">
@@ -90,6 +90,6 @@
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0e8a3e,100:3fd66f&height=80&section=footer" width="100%"/>
+<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0e8a3e,100:3fd66f&height=80&section=footer" width="100%"/> -->
 
 </div>
