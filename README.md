@@ -1,22 +1,28 @@
-
 <img width="100%" alt="image" src="https://github.com/user-attachments/assets/a852d924-649b-4f62-aac0-f8b6a2f20d3e" />
+
+
+# ABOUT ME 
+I’m a second-year IT undergrad at the University of Calcutta, working across the MERN stack. I’m an active CNCF contributor, currently shipping fixes into Apicurio Registry and Jaeger UI. I prefer building things end-to-end—developing real features instead of half-finished demos. I enjoy turning ideas into production-ready applications, iterating quickly, and contributing to open-source projects that matter.
+
+---
+
 <div align="center">
-  
-#  FEATURED PROJECTS
+
+# FEATURED PROJECTS
 <table align="center">
 <tr>
 <td width="100%">
-  
+
 **DevPrint**
- 
+
 - GitHub OAuth (Auth0) — login auto-generates your own dev card, no manual setup
 - GraphQL contribution heatmap + stats tiles pulled from GitHub REST + GraphQL API
 - MongoDB cache-aside layer for fast repeat loads
 - Public shareable card at `/u/:username`
 - Deployed on Render with custom domain + `/healthz` keep-alive
 <p align="center" style = "fontSize=50">
-<a href="https://devprint.adrish.me"><img src="https://img.shields.io/badge/Live-devprint.adrish.me-47A248?style=flat-square"  /></a>
-<a href="https://github.com/adrish-mage/devprint"><img src="https://img.shields.io/badge/Repo-View_Code-21262d?style=flat-square&logo=github"/></a>
+<a href="https://devprint.adrish.me"><img src="https://img.shields.io/badge/Live-devprint.adrish.me-47A248?style=for-the-badge" width="220" /></a>
+<a href="https://github.com/adrish-mage/devprint"><img src="https://img.shields.io/badge/Repo-View_Code-21262d?style=for-the-badge&logo=github" width="160"/></a>
 </p>
 </td>
 </tr>
@@ -30,17 +36,12 @@
 &nbsp;&nbsp;&nbsp;
 <a href="https://linkedin.com/in/adrish-dey"><img src="https://img.shields.io/badge/LinkedIn-161b22?style=for-the-badge&logo=linkedin&logoColor=white" width="120" style="border-radius:10px;"/></a>
 &nbsp;&nbsp;&nbsp;
-<a href="mailto:adrish@example.com"><img src="https://img.shields.io/badge/Email-161b22?style=for-the-badge&logo=gmail&logoColor=white" width="120" style="border-radius:10px;"/></a>
+<a href="mailto:adrishdey2007@gmail.com"><img src="https://img.shields.io/badge/Email-161b22?style=for-the-badge&logo=gmail&logoColor=white" width="120" style="border-radius:10px;"/></a>
 </p>
-
-> "It is our choices, Harry, that show what we truly are, far more than our abilities."
-> — *Albus Dumbledore*
 
 -----
 
 # 🌱 OPEN SOURCE
-
-
 
 **GSSoC 2026 Contributor** — Top 2%, Global Rank #817 — 10 merged PRs across [DailyForge](https://github.com/aryandas2911/DailyForge) and [StorySpark AI](https://github.com/ronisarkarexe/story-spark-ai)
 <p align="center">
@@ -52,26 +53,26 @@
 # TECH STACK
 
 <p align="center">
-<img src="https://img.shields.io/badge/JavaScript-161b22?style=for-the-badge&logo=javascript&logoColor=F7DF1E&"/>
-<img src="https://img.shields.io/badge/TypeScript-161b22?style=for-the-badge&logo=typescript&logoColor=3178C6"/>
-<img src="https://img.shields.io/badge/C++-161b22?style=for-the-badge&logo=cplusplus&logoColor=00599C"/>
-<img src="https://img.shields.io/badge/HTML5-161b22?style=for-the-badge&logo=html5&logoColor=E34F26"/>
-<img src="https://img.shields.io/badge/CSS3-161b22?style=for-the-badge&logo=css3&logoColor=1572B6"/>
+<img src="https://img.shields.io/badge/JavaScript-161b22?style=for-the-badge&logo=javascript&logoColor=F7DF1E&" height="32"/>
+<img src="https://img.shields.io/badge/TypeScript-161b22?style=for-the-badge&logo=typescript&logoColor=3178C6" height="32"/>
+<img src="https://img.shields.io/badge/C++-161b22?style=for-the-badge&logo=cplusplus&logoColor=00599C" height="32"/>
+<img src="https://img.shields.io/badge/HTML5-161b22?style=for-the-badge&logo=html5&logoColor=E34F26" height="32"/>
+<img src="https://img.shields.io/badge/CSS3-161b22?style=for-the-badge&logo=css3&logoColor=1572B6" height="32"/>
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/React-161b22?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Node.js-161b22?style=for-the-badge&logo=nodedotjs&logoColor=339933"/>
-<img src="https://img.shields.io/badge/Express-161b22?style=for-the-badge&logo=express&logoColor=white"/>
-<img src="https://img.shields.io/badge/EJS-161b22?style=for-the-badge&logo=ejs&logoColor=B4CA65"/>
+<img src="https://img.shields.io/badge/React-161b22?style=for-the-badge&logo=react&logoColor=61DAFB" height="32"/>
+<img src="https://img.shields.io/badge/Node.js-161b22?style=for-the-badge&logo=nodedotjs&logoColor=339933" height="32"/>
+<img src="https://img.shields.io/badge/Express-161b22?style=for-the-badge&logo=express&logoColor=white" height="32"/>
+<img src="https://img.shields.io/badge/EJS-161b22?style=for-the-badge&logo=ejs&logoColor=B4CA65" height="32"/>
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/MongoDB-161b22?style=for-the-badge&logo=mongodb&logoColor=47A248"/>
-<img src="https://img.shields.io/badge/GraphQL-161b22?style=for-the-badge&logo=graphql&logoColor=E10098"/>
-<img src="https://img.shields.io/badge/Git-161b22?style=for-the-badge&logo=git&logoColor=F05032"/>
-<img src="https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Auth0-161b22?style=for-the-badge&logo=auth0&logoColor=EB5424"/>
+<img src="https://img.shields.io/badge/MongoDB-161b22?style=for-the-badge&logo=mongodb&logoColor=47A248" height="32"/>
+<img src="https://img.shields.io/badge/GraphQL-161b22?style=for-the-badge&logo=graphql&logoColor=E10098" height="32"/>
+<img src="https://img.shields.io/badge/Git-161b22?style=for-the-badge&logo=git&logoColor=F05032" height="32"/>
+<img src="https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=white" height="32"/>
+<img src="https://img.shields.io/badge/Auth0-161b22?style=for-the-badge&logo=auth0&logoColor=EB5424" height="32"/>
 </p>
 
 ---
