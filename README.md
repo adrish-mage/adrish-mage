@@ -32,11 +32,11 @@ I'm a second-year IT undergrad at the University of Calcutta, working across the
 # 🌐 OPEN-SOURCE
 <table> <tr> <td width="50%" valign="top">
 
-**CNCF - Cloud Native Computing Foundation**
+- **CNCF - Cloud Native Computing Foundation**
 
-**apicurio-registr**y → PR #9305 CLI content-type defaulting fix
+- **apicurio-registr**y → PR #9305 CLI content-type defaulting fix
 
-**jaeger-ui** → PR #4330 staleTime: Infinity caching fix
+- **jaeger-ui** → PR #4330 staleTime: Infinity caching fix
 
 </td> <td width="50%" valign="top">
 
