@@ -1,12 +1,11 @@
 <img width="100%" alt="image" src="https://github.com/user-attachments/assets/a852d924-649b-4f62-aac0-f8b6a2f20d3e" />
 
-
-# ABOUT ME 
-I’m a second-year IT undergrad at the University of Calcutta, working across the MERN stack. I’m an active CNCF contributor, currently shipping fixes into Apicurio Registry and Jaeger UI. I prefer building things end-to-end—developing real features instead of half-finished demos. I enjoy turning ideas into production-ready applications, iterating quickly, and contributing to open-source projects that matter.
+# ABOUT ME
+I'm a second-year IT undergrad at the University of Calcutta, working across the MERN stack. I'm an active **CNCF contributor**, shipping fixes into Apicurio Registry and Jaeger UI. I prefer building things end-to-end — developing real features instead of half-finished demos. I enjoy turning ideas into production-ready applications, iterating quickly, and contributing to open-source projects that matter.
 
 ---
 
-<div align="center">
+<div align>
 
 # FEATURED PROJECTS
 <table align="center">
@@ -30,23 +29,24 @@ I’m a second-year IT undergrad at the University of Calcutta, working across t
 
 ---
 
-# CONNECT
-<p align="center">
-<a href="https://github.com/adrish-mage"><img src="https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=white" width="120" style="border-radius:10px;"/></a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://linkedin.com/in/adrish-dey"><img src="https://img.shields.io/badge/LinkedIn-161b22?style=for-the-badge&logo=linkedin&logoColor=white" width="120" style="border-radius:10px;"/></a>
-&nbsp;&nbsp;&nbsp;
-<a href="mailto:adrishdey2007@gmail.com"><img src="https://img.shields.io/badge/Email-161b22?style=for-the-badge&logo=gmail&logoColor=white" width="120" style="border-radius:10px;"/></a>
-</p>
+# 🌐 OPEN-SOURCE
+<table> <tr> <td width="50%" valign="top">
 
------
+**CNCF**
 
-# 🌱 OPEN SOURCE
+**apicurio-registr**y → PR #9305 CLI content-type defaulting fix
 
-**GSSoC 2026 Contributor** — Top 2%, Global Rank #817 — 10 merged PRs across [DailyForge](https://github.com/aryandas2911/DailyForge) and [StorySpark AI](https://github.com/ronisarkarexe/story-spark-ai)
-<p align="center">
-<code>Recurring tasks</code> · <code>Bulk edit</code> · <code>Error boundaries</code> · <code>Reading progress bar</code>
-</p>
+**jaeger-ui** → PR #4330 staleTime: Infinity caching fix
+
+</td> <td width="50%" valign="top">
+
+**GSSoC 2026**
+
+Top 2% · Rank #817 · C Tier · Score 5,035 10 merged PRs in DailyForge · StorySpark AI · CommitPulse
+
+Bulk edit and Delete tasks | Recurring tasks feature | Error boundaries | Reading progress bar | CI breaking-change detection
+
+</td> </tr> </table> <br>
 
 ---
 
@@ -88,6 +88,17 @@ I’m a second-year IT undergrad at the University of Calcutta, working across t
 </td>
 </tr>
 </table>
+
+---
+
+# CONNECT
+<p align="center">
+<a href="https://github.com/adrish-mage"><img src="https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=white" width="120" style="border-radius:10px;"/></a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://linkedin.com/in/adrish-dey"><img src="https://img.shields.io/badge/LinkedIn-161b22?style=for-the-badge&logo=linkedin&logoColor=white" width="120" style="border-radius:10px;"/></a>
+&nbsp;&nbsp;&nbsp;
+<a href="mailto:adrishdey2007@gmail.com"><img src="https://img.shields.io/badge/Email-161b22?style=for-the-badge&logo=gmail&logoColor=white" width="120" style="border-radius:10px;"/></a>
+</p>
 
 ---
 
