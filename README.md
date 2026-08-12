@@ -34,9 +34,9 @@ I'm a second-year IT undergrad at the University of Calcutta, working across the
 
 - **CNCF - Cloud Native Computing Foundation**
 
-- **apicurio-registr**y → PR #9305 CLI content-type defaulting fix
+- **apicurio-registr**y → <a href="https://github.com/Apicurio/apicurio-registry/pull/9305">PR #9305</a> CLI content-type defaulting fix (merged)
 
-- **jaeger-ui** → PR #4330 staleTime: Infinity caching fix
+- **jaeger-ui** → <a href="https://github.com/jaegertracing/jaeger-ui/pull/4330">PR #4330</a> staleTime: Infinity caching fix
 
 </td> <td width="50%" valign="top">
 
