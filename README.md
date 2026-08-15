@@ -2,7 +2,7 @@
 <img width="100%" alt="header" src="https://github.com/user-attachments/assets/a852d924-649b-4f62-aac0-f8b6a2f20d3e" />
 
 # ABOUT ME
-I'm a second-year IT undergrad at the University of Calcutta, working across the MERN stack. I'm an active **CNCF contributor**, shipping fixes into Apicurio Registry and Jaeger UI. I prefer building things end-to-end — developing real features instead of half-finished demos. I enjoy turning ideas into production-ready applications, iterating quickly, and contributing to open-source projects that matter.
+I'm a second-year IT undergrad at the University of Calcutta, working across the MERN stack. I'm an active **CNCF contributor**, shipping fixes into Apicurio Registry and Jaeger UI. I prefer building things end-to-end — developing real features instead of half-finished tools. I enjoy turning ideas into production-ready applications, iterating quickly, and contributing to open-source projects that matter.
 
 ---
 
