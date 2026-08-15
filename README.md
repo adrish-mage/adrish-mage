@@ -25,6 +25,21 @@ I'm a second-year IT undergrad at the University of Calcutta, working across the
 </p>
 </td>
 </tr>
+<tr>
+<td width="100%">
+
+**KleidiAI Tradeoffs on Arm**
+
+- Benchmarked llama.cpp with/without the Arm KleidiAI backend on Android ARM64 (DotProd-only device)
+- Isolated prompt-processing (pp512) vs token-generation (tg128) workloads across Q4_0 quantized Qwen models
+- Found workload-dependent, non-uniform results — 0.5B model slower with KleidiAI on both workloads; 1.5B model showed +16.2% prompt-processing throughput but -6.2% token-generation throughput
+- Preserved raw benchmark logs, build scripts, and hardware-capability records for reproducibility instead of cherry-picking favorable captures
+- Submitted to the **Arm Create: AI Innovation Challenge**
+<p align="center" style = "fontSize=50">
+<a href="https://github.com/adrish-mage/kleidi-tradeoffs-arm"><img src="https://img.shields.io/badge/Repo-View_Code-21262d?style=for-the-badge&logo=github" width="160"/></a>
+</p>
+</td>
+</tr>
 </table>
 
 ---
