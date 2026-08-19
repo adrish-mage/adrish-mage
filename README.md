@@ -18,7 +18,7 @@ I'm a second-year IT undergrad at the University of Calcutta, working across the
 An automated platform that logs developers via GitHub OAuth, fetches stats/heatmaps via REST & GraphQL APIs, and caches responses in MongoDB for high performance.
 
 **Highlights**
-- GitHub OAuth (Auth0) — auto-generates dev card
+- GitHub OAuth (Auth0) - auto-generates dev card
 - GraphQL heatmap & stats from GitHub API
 - MongoDB cache-aside layer for fast reloads
 - Deployed on Render with `/healthz` keep-alive
