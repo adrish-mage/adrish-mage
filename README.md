@@ -62,23 +62,30 @@ Evaluated llama.cpp performance with and without the Arm KleidiAI backend across
 
 # 🌐 OPEN-SOURCE
 
-<table align="center" width="100%">
+<h3>🌐 OPEN-SOURCE</h3>
+
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
-### CNCF Contributions
+**CNCF Contributions**
+
 *Cloud Native Computing Foundation*
 
-- **apicurio-registry** → <a href="https://github.com/Apicurio/apicurio-registry/pull/9305">PR #9305</a> CLI content-type defaulting fix (merged)
-- **jaeger-ui** → <a href="https://github.com/jaegertracing/jaeger-ui/pull/4330">PR #4330</a> staleTime: Infinity caching fix
+- **apicurio-registry**
+  - <a href="https://github.com/Apicurio/apicurio-registry/pull/9305">PR #9305</a> — CLI content-type defaulting fix (merged)
+  - <a href="https://github.com/Apicurio/apicurio-registry/pull/9612">PR #9612</a> — Fix `LegacyV2ApiDateFormatTest` to assert real parsing behavior (reviewed positively, open)
+- **jaeger-ui**
+  - <a href="https://github.com/jaegertracing/jaeger-ui/pull/4330">PR #4330</a> — `staleTime: Infinity` caching fix
 
 </td>
 <td width="50%" valign="top">
 
-### GSSoC 2026
-*Top 2% · Rank #817 · C Tier · Score 5,035*
+**GSSoC 2026**
 
-- 10 merged PRs across DailyForge, StorySpark AI, and CommitPulse
+*Top 2% · Global Rank #792 · Elite Contributor Badge
+
+- 14 merged PRs across DailyForge, StorySpark AI, Easemotion-css and CommitPulse
 - Implemented bulk edit/delete, recurring tasks, error boundaries, reading progress bar, and CI breaking-change detection
 
 </td>
