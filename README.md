@@ -62,8 +62,6 @@ Evaluated llama.cpp performance with and without the Arm KleidiAI backend across
 
 # 🌐 OPEN-SOURCE
 
-<h3>🌐 OPEN-SOURCE</h3>
-
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
