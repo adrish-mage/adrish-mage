@@ -83,7 +83,7 @@ Evaluated llama.cpp performance with and without the Arm KleidiAI backend across
 
 *Top 2% · Global Rank #792 · Elite Contributor Badge*
 
-- 14 merged PRs across DailyForge, StorySpark AI, Easemotion-css and CommitPulse
+- [14 merged PRs ](https://github.com/pulls/authored?q=is%3Apr+author%3A%40me+state%3Aclosed+archived%3Afalse+sort%3Aupdated-desc+label%3Agssoc%3Aapproved) across DailyForge, StorySpark AI, Easemotion-css and CommitPulse
 - Implemented bulk edit/delete, recurring tasks, error boundaries, reading progress bar, and CI breaking-change detection
 
 </td>
