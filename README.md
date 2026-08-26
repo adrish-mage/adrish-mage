@@ -71,10 +71,10 @@ Evaluated llama.cpp performance with and without the Arm KleidiAI backend across
 *Cloud Native Computing Foundation*
 
 - **apicurio-registry**
-  - <a href="https://github.com/Apicurio/apicurio-registry/pull/9305">PR #9305</a> — CLI content-type defaulting fix (merged)
-  - <a href="https://github.com/Apicurio/apicurio-registry/pull/9612">PR #9612</a> — Fix `LegacyV2ApiDateFormatTest` to assert real parsing behavior (reviewed positively, open)
+  - <a href="https://github.com/Apicurio/apicurio-registry/pull/9305">PR #9305</a> : CLI content-type defaulting fix (merged)
+  - <a href="https://github.com/Apicurio/apicurio-registry/pull/9612">PR #9612</a> : Fix `LegacyV2ApiDateFormatTest` to assert real parsing behavior (reviewed positively, open)
 - **jaeger-ui**
-  - <a href="https://github.com/jaegertracing/jaeger-ui/pull/4330">PR #4330</a> — `staleTime: Infinity` caching fix
+  - <a href="https://github.com/jaegertracing/jaeger-ui/pull/4330">PR #4330</a> : `staleTime: Infinity` caching fix
 
 </td>
 <td width="50%" valign="top">
