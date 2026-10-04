@@ -1,4 +1,3 @@
-
 <img width="100%" alt="header" src="https://github.com/user-attachments/assets/a852d924-649b-4f62-aac0-f8b6a2f20d3e" />
 
 # ABOUT ME
@@ -10,6 +9,29 @@ I'm a second-year IT undergrad at the University of Calcutta, working across the
 
 <table align="center" width="100%">
 <tr>
+<td width="50%" valign="top">
+
+### Dimora
+*Verified Housing for Student Relocation*
+
+Helps students and interns relocating for 1-6 months decide whether a room and its host can be trusted, then handles lease-style booking with host approval.
+
+**Highlights**
+- Weighted trust score from ratings, review confidence, verification and consistency
+- Human-reviewed verification for listings, hosts and student IDs
+- Lease requests with host approval, prorated pricing and double-booking protection
+- Auth, CSRF protection and rate-limited login/signup
+
+<br>
+
+**Tech Stack:** `Node.js` `Express` `MongoDB` `EJS` `Passport.js` `Cloudinary`
+
+<p align="center">
+  <a href="https://dimora.adrish.me"><img src="https://img.shields.io/badge/Live-dimora.adrish.me-47A248?style=for-the-badge" height="28" /></a>
+  <a href="https://github.com/adrish-mage/dimora"><img src="https://img.shields.io/badge/Repo-View_Code-21262d?style=for-the-badge&logo=github" height="28"/></a>
+</p>
+
+</td>
 <td width="50%" valign="top">
 
 ### DevPrint
@@ -31,6 +53,26 @@ An automated platform that logs developers via GitHub OAuth, fetches stats/heatm
   <a href="https://devprint.adrish.me"><img src="https://img.shields.io/badge/Live-devprint.adrish.me-47A248?style=for-the-badge" height="28" /></a>
   <a href="https://github.com/adrish-mage/devprint"><img src="https://img.shields.io/badge/Repo-View_Code-21262d?style=for-the-badge&logo=github" height="28"/></a>
 </p>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### P.A.R.P.A.S.
+*Academia-Industry Portal · Smart India Hackathon 2026*
+
+Team submission for PS 26044: a portal connecting institutions, faculty, students and organisations, where credentials have to be trusted before they are shown.
+
+**Highlights**
+- Backend owner: API gateway, MongoDB schemas, CRUD across 7 modules
+- 4-tier evidence verification with an immutable audit trail
+- Two-layer trust: DigiLocker identity, invite pipelines for roles
+- Analytics through MongoDB aggregation pipelines
+
+<br>
+
+**Tech Stack:** `Node.js` `Express` `MongoDB` `React` `FastAPI`
 
 </td>
 <td width="50%" valign="top">
